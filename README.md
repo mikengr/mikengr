@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Michael Rowland
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Python, DjangoREST framework, Javascript
-- 💞️ I’m looking to collaborate on start-up projects and open source projects
+- 👋 Hi, I’m Michael Rowland Ngwube
+- :smile: A Software developer from Nigeria
+- 👀 Interested in Fullstack development
+- 💞️ I’m looking to collaborate on start-up and open source projects
+- 🌱 I’m currently working with Python(FastApi), PHP(Laravel), NodeJs(Express) and VueJS
 - 📫 How to reach me michaelrowland.ng@gmail.com
 
 <!---
